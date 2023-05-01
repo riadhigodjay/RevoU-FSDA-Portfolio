@@ -1,6 +1,6 @@
 This project is designed to assess my understanding of Business Problems as a Data Analyst.
 
-Overview: 
+# Overview: 
 I'm part of the Data Analyst Team at XYZ Company with 4000 employees. The company is currently facing a problem that attrition rate is increasing to 15% every year.
 As a Data Analyst, I need to find the possible causes and understand the business problem, and here it is what I do.
 
