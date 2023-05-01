@@ -12,4 +12,4 @@ Hi! My name is Riadhi. This repository contains the projects I completed at Revo
 - *Spreadsheet*
 - *SQL Big Query*
 - *Python & Google Colaboratory*
-- *Tableau Public & Google Looker)*
+- *Tableau Public & Google Looker*
