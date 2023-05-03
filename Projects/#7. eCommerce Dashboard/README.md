@@ -13,7 +13,7 @@ This process including :
 4. Creating Dashboard Visualization using Tableau
 5. Giving insight and recommendations
 
-Link to Google Looker Studio Dashboard:
+- Link to Google Looker Studio Dashboard:
 https://lookerstudio.google.com/u/0/reporting/8d09bb2f-ac3a-4646-8c4f-30045f305609/page/RONKD
-Link to Tableau Dashboard:
+- Link to Tableau Dashboard:
 https://public.tableau.com/app/profile/riadhi/viz/DataVizAssignment_16824191052900/Story?publish=yes
